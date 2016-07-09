@@ -7,4 +7,4 @@ Some examples use Serial (UART unit) and some ones use cdc (USB CDC). Copy conte
 
 you need USB to Serial convertor when UART unit is in use. if you don't have one or you want to use USB CDC ... Replace Serial by cdc and remove Serial.begin() at very beginning of main function. So simple ...!
 
-Check EasyMCU for our tutorial and wiring.
+Check easymcu.ir for our tutorial and wiring.
